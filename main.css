@@ -1,0 +1,96 @@
+.iphone{
+    width: 20%;
+    float: left;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid gray ;
+    align-items: center;
+    padding: auto;
+
+}
+
+.iphone1{
+    width: 20%;
+    float: left;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 1px solid gray ;
+    align-items: center;
+    padding: auto;
+
+}
+
+.product{
+    margin-left: 100px;
+}
+
+
+
+h2{
+
+    margin-left: 10px;
+
+}
+
+p{
+    margin-left: 10px;
+    color: gray;
+}
+
+.real{
+    float: left;
+   margin-left: 10px;
+   margin-right: auto;
+  
+   color: green;
+   align-items: center;
+   
+}
+
+.sale {
+    float: left;
+   margin-left: 10px;
+   margin-right: auto;
+    color: red;
+    text-decoration: line-through;
+    
+    
+
+}
+
+img{
+
+    margin: 10px 10px 10px 40px;
+}
+
+.add {
+    float: left;
+    width: 80%; 
+    background-color: #007bff; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.favorite {
+    float: right;
+    width: 15%; 
+    background-color: white;
+    color: #007bff; 
+    border: 1px solid #007bff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.buttons {
+    margin: 10px 10px;
+}
+
+
+
+
+
